@@ -32,7 +32,7 @@ import glob
 import os
 import stat
 import pprint
-
+sys.path.append('/export/durack1/.local/lib/python2.7/site-packages/clips')
 import clips
 
 has_syck=False
