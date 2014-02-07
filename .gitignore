@@ -1,0 +1,6 @@
+*.pyc
+converted
+*.pyo
+*~
+*swp*
+*.o 
